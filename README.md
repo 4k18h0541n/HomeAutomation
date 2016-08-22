@@ -15,8 +15,12 @@ You can use this project for making your home or office smart and control your l
 
 Help :
 
-Jahir Ibna Rafiq--------------------------Jahir@uap-bd.edu
-Akib Hosen--------------------------------akib.hosain@yahoo.com
+Jahir Ibna Rafiq
+Jahir@uap-bd.edu
+
+
+Akib Hosen
+akib.hosain@yahoo.com
 
 
 
@@ -40,13 +44,13 @@ Now it’s ready. For Your kind information ,hold flash + hold reset then releas
 
 Connections And Pins:
 
-ESP8266 12E (Pin)        	4 Channel Relay Module (Pin)
-Vin	                       Vcc
-Gnd                     	Gnd
-D1                      	IN1
-D2                      	IN2
-D3                      	IN3
-D7                      	IN4
+ESP8266 12E (Pin) -> 4 Channel Relay Module (Pin)
+Vin	           ->            Vcc
+Gnd              ->       	Gnd
+D1                ->      	IN1
+D2                  ->    	IN2
+D3                    ->  	IN3
+D7                      ->	IN4
 
 
 
